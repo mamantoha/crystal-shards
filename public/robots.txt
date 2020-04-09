@@ -1,4 +1,5 @@
 User-agent: *
+Sitemap: https://shards.info/sitemap_index.xml.gz
 
 Disallow:
 

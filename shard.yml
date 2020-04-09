@@ -51,6 +51,8 @@ dependencies:
     branch: master
   shards:
     github: crystal-lang/shards
+  sitemapper:
+    github: jwoertink/sitemapper
 
 development_dependencies:
   spec-kemal:

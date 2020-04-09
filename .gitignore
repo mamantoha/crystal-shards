@@ -3,6 +3,7 @@
 /bin/
 /log/
 /public/dist/
+/public/sitemaps/
 /src/tasks/
 /.shards/
 .env

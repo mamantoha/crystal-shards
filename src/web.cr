@@ -16,7 +16,6 @@ require "raven/integrations/kemal"
 require "../config/config"
 require "./config"
 require "./view_helpers"
-require "./delegators"
 
 require "./lib/cmark/readme_renderer"
 

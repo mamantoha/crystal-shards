@@ -38,4 +38,8 @@ class RepositoryDelegator < Delegator(Repository)
       ""
     end
   end
+
+  def url
+    "https://shards/info#{provider}/#{user.login}/#{name}"
+  end
 end
